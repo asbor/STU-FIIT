@@ -38,6 +38,9 @@
 ### [APC](Aplikačné%20programovanie%20v%20C++)
 ### [WTECH](Základy%20webových%20technológií)
 ### [ICP](Interakcia%20človeka%20s%20počítačom)
+### [SPAASM](Systémové%20programovanie%20a%20asemblery)
+### [PARALPR](Paralelné%20Programovanie)
+### [PPGSO](Princípy%20počítačovej%20grafiky%20a%20spracovania%20obrazu)
 
 ## Vedľajšie
 
