@@ -41,6 +41,8 @@
 ### [SPAASM](Systémové%20programovanie%20a%20asemblery)
 ### [PARALPR](Paralelné%20Programovanie)
 ### [PPGSO](Princípy%20počítačovej%20grafiky%20a%20spracovania%20obrazu)
+### [MSOFT](Modelovanie%20softvéru)
+### [PAP](Projektovanie%20aplikácií%20počítačov)
 
 ## Vedľajšie
 
