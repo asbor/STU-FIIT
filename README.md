@@ -48,5 +48,5 @@
 
 ### [Voľba rozvrhu](Voľba%20rozvrhu.pdf)
 ### [Výber predmetov](Výber%20predmetov.pdf)
-### [Registrácia na projekty](Voľba%20BP-DP.pdf)
+### [Registrácia na BP/DP práce](Voľba%20BP-DP.pdf)
 ### [Objednanie jedla FIIT FOOD](FIIT%20FOOD.pdf)
