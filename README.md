@@ -28,6 +28,10 @@
 
 ### [BP1](Bakalársky%20projekt%20I)
 
+## 6 semester
+
+### [BP2](Bakalárska%20práca)
+
 ## Voliteľné
 
 ### [TEAP](Tvorba%20efektivnych%20algoritmov%20a%20programov)
@@ -43,8 +47,16 @@
 ### [PPGSO](Princípy%20počítačovej%20grafiky%20a%20spracovania%20obrazu)
 ### [MSOFT](Modelovanie%20softvéru)
 ### [PAP](Projektovanie%20aplikácií%20počítačov)
+### [FYZAKPH](Fyzikálne%20základy%20počítačových%20hier)
+### [FAPS](Forenzná%20analýza%20počítačových%20systémov)
+### [MIKROP](Mikropočítače)
+### [DMBLOCK](Digitálne%20meny%20a%20Blockchain)
+### [MBVIT](Manažment%20bezpečnosti%20v%20informačných%20technológiách)
+### [VPWA](Vývoj%20progresívnych%20webových%20aplikácií)
 
 ## Vedľajšie
+
+### Disclaimer: Do not copy the whole project, because it is being checked by antiplagiator system. It can result in FX. (PKS, PRPR)
 
 ### [Voľba rozvrhu](Voľba%20rozvrhu.pdf)
 ### [Výber predmetov](Výber%20predmetov.pdf)

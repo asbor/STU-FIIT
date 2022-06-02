@@ -71,8 +71,6 @@
 //    return 0;
 //}
 
-// uloha4-2.c -- Matej Delinčák, 7.3.2021 08:3
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
