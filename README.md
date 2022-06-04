@@ -1,6 +1,6 @@
 # STU-FIIT
 
-## Bachelor's degree:
+## Bakalár: 
 
 ### 1 semester
 
@@ -57,7 +57,7 @@
 #### [VPWA](Vývoj%20progresívnych%20webových%20aplikácií)
 ### [MTAA](Mobilné%20technológie%20a%20aplikácie)
 
-## Master's degree
+## Inžinier:
 
 ## Vedľajšie
 
@@ -66,4 +66,4 @@
 #### [Registrácia na BP/DP práce](Voľba%20BP-DP.pdf)
 #### [Objednanie jedla FIIT FOOD](FIIT%20FOOD.pdf)
 
-Disclaimer: Do not copy the whole project, because it is being checked by antiplagiator system. It can result in FX. (PKS, PRPR)
+Nekopírujte celé zadania pretože sú kontrolované antiplagiátorským systémom a ak je zhoda väčšia ako 50% máte fx a idete pred komisiu (PKS, PRPR).
