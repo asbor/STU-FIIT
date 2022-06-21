@@ -6,8 +6,12 @@ http://www.vhu.sk/data/files/225.pdf?fbclid=IwAR2wboB4jic1hIvD7c9l9BjWGXQ149ZiKK
 
 https://www.pamiatkynaslovensku.sk/cintoriny-vojenske?fbclid=IwAR3ahFD9lA0yP6PYt_RorQrHOBI2uNZS2bstsX0noU3_m5bctpZ4avvdPfM
 
-pamätníky:
+pamätníky, vojaci:
 http://www.pamatniky-tasr.sk/p/
 
 zajatecké tábory:
 https://cha.fsv.cvut.cz/mapp.php?map=7Fh&fbclid=IwAR3YNDB5ImKBaJ9OwnfMbMXaigT-ewtozCi3plPEwFOV3481IZndwdf85gg
+
+boje:
+Knihy: M. Hronský, A Krivá a M Čaplovič. Vojenské dejiny Slovenska.
+Dušan Kováč. Prvá svetová vojna.
