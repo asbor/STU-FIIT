@@ -55,9 +55,9 @@
 #### [DMBLOCK](Digitálne%20meny%20a%20Blockchain)
 #### [MBVIT](Manažment%20bezpečnosti%20v%20informačných%20technológiách)
 #### [VPWA](Vývoj%20progresívnych%20webových%20aplikácií)
-### [MTAA](Mobilné%20technológie%20a%20aplikácie)
-### [IIT.SRC](Študentská%20vedecká%20konferencia%20zameraná%20na%20informatiku%20a%20informačné%20technológie)
-### [WPUB](Webové%20publikovanie)
+#### [MTAA](Mobilné%20technológie%20a%20aplikácie)
+#### [IIT.SRC](Študentská%20vedecká%20konferencia%20zameraná%20na%20informatiku%20a%20informačné%20technológie)
+#### [WPUB](Webové%20publikovanie)
 
 ## Inžinier:
 
