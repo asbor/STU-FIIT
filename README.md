@@ -58,6 +58,8 @@
 #### [MTAA](Mobilné%20technológie%20a%20aplikácie)
 #### [IIT.SRC](Študentská%20vedecká%20konferencia%20zameraná%20na%20informatiku%20a%20informačné%20technológie)
 #### [WPUB](Webové%20publikovanie)
+#### [PSIP](Prepínanie%20a%20smerovanie%20v%20IP%20sieťach)
+#### [WANT](WAN%20technológie)
 
 ## Inžinier:
 
