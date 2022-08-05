@@ -63,6 +63,8 @@
 
 ## Inžinier:
 
+---
+
 ## Vedľajšie
 
 #### [Voľba rozvrhu](Voľba%20rozvrhu.pdf)
@@ -70,4 +72,25 @@
 #### [Registrácia na BP/DP práce](Voľba%20BP-DP.pdf)
 #### [Objednanie jedla FIIT FOOD](FIIT%20FOOD.pdf)
 
-Nekopírujte celé zadania pretože sú kontrolované antiplagiátorským systémom a ak je zhoda väčšia ako 50% máte fx a idete pred komisiu (PKS, PRPR).
+#### Nekopírujte celé zadania pretože sú kontrolované antiplagiátorským systémom a ak je zhoda väčšia ako 50% máte fx a idete pred komisiu (PKS, PRPR).
+
+## Zaujímave informácie
+
+#### Počet študentov na začiatku bakalárskeho štúdia ročník 2019/2020 3 ročné štúdium: 377
+#### Počet úspešných bakalárov: 187
+
+### Obdobie medzi strednou školou a bakalárom
+#### Nie je potrebné ísť na úrad práce ani do sociálnej poistovne, je potrebné zaslať mailom banke potvrdenie o štúdiu pre študentský účet zadarmo (tatra banka), na prídavky pre dieťa, na smeti
+#### Vlaky zadarmo nie su
+#### Študentská zlava v MHD a busoch funguje
+#### Isic je platný od 1.9
+
+### Obdobie medzi bakalárom a inžinierom
+#### Nie je potrebné ísť na úrad práce ani do sociálnej poistovne, je potrebné zaslať mailom banke potvrdenie o štúdiu pre študentský účet zadarmo (tatra banka), na prídavky pre dieťa, na smeti
+#### Vlaky zadarmo nie su
+#### Študentská zlava v MHD a busoch funguje
+#### Isic je platný od 1.9
+
+### Práca 
+#### Pre hľadanie práce odporúčam portály LinkedIn, profesia, po známosti ak už nejaký váš rovesník niekde pracuje vie vás odporučiť a pojdete na interview. Vo vačšine firmách ak niekoho odporučíte a následne ho aj zoberú dostanete finančný bonus. Prípadne ak sa opýtate vyučujúceho na nejakom predmete ktorý vás zaujal vie vám nejakú prácu nájsť/odporučiť on.
+#### Cez školu sa dá stíhať aj pracovať part-time ale je to veľmi náročné a nie je to pre každého tak si to treba dobre premyslieť, pre začiatok práce popri škole odporúčam 5/6 semester tie sú v rámci náročnosti najlahšie. Pracovať cez letné prázdniny part-time, full-time plne odporúčam určite sa to oplatí, pomôže vám to cez semester a človek sa veľa naučí.
