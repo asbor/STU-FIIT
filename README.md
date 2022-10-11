@@ -94,3 +94,5 @@
 ### Práca 
 #### Pre hľadanie práce odporúčam portály LinkedIn, profesia, po známosti ak už nejaký váš rovesník niekde pracuje vie vás odporučiť a pojdete na interview. Vo vačšine firmách ak niekoho odporučíte a následne ho aj zoberú dostanete finančný bonus. Prípadne ak sa opýtate vyučujúceho na nejakom predmete ktorý vás zaujal vie vám nejakú prácu nájsť/odporučiť on.
 #### Cez školu sa dá stíhať aj pracovať part-time ale je to veľmi náročné a nie je to pre každého tak si to treba dobre premyslieť, pre začiatok práce popri škole odporúčam 5/6 semester tie sú v rámci náročnosti najlahšie. Pracovať cez letné prázdniny part-time, full-time plne odporúčam určite sa to oplatí, pomôže vám to cez semester a človek sa veľa naučí.
+
+Volte trojku mateja pakana do fiit stu senatu
